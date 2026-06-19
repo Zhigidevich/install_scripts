@@ -30,7 +30,6 @@ APT_PACKETS=(
     git
     tmux
     htop
-    net-tools
     build-essential
     jq
 )
